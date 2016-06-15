@@ -8,3 +8,5 @@ f = open('d261127','rb')
 a = f.readline()
 s = struct.unpack('11i',a[0:44])
 
+x = 1
+
